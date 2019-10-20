@@ -1,2 +1,2 @@
 # FoodCorner
-An App made by Team EXE.
+An App made by Team .EXE
